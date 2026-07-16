@@ -57,8 +57,6 @@ Survei Angkatan Kerja Nasional (SAKERNAS) – Badan Pusat Statistik (BPS)
 
 ## Alur Analisis
 
-```
-
 <p align="center">
   <img src="images/workflow.jpg" alt="Workflow PCA-Biplot-Clustering" width="100%">
 </p>
